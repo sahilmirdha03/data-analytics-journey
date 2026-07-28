@@ -25,4 +25,12 @@ Excel | MySQL | Power BI | Python | Pandas | Tableau | ChatGPT | Claude
 ## 📫 Connect With Me
 - LinkedIn: linkedin.com/in/sahilmirdha
 - Email: sahilmirdha03@gmail.com
-- Instagram: @__fitwithsahil
+## 📅 Journey Log
+
+### Day 1 — 28 July 2026
+✅ Attended Kick-off Session at WsCube Tech
+✅ Met mentor Ayushi Jain
+✅ Roadmap understood — Excel → SQL → Power BI → Python → GenAI
+✅ 41 batchmates in cohort
+✅ GitHub account setup done
+✅ LinkedIn profile setup done
